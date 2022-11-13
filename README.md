@@ -10,6 +10,6 @@ Syntetic simulation of path finding problems of Magen David Adom (MDA) with Heur
 > assignment_solution.pdf.
 
 ## Structure:
-> framework/graph_search presents several heurystic based search algorithms implemented in the generic way.<br>
-> main.py defines and runs various experiments.<br>
-> problems folder contains costs and various heurystics of the described problem to solve.<br>
+>* framework/graph_search presents several heurystic based search algorithms implemented in the generic way.<br>
+>* main.py defines and runs various experiments.<br>
+>* problems folder contains costs and various heurystics of the described problem to solve.<br>
