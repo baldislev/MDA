@@ -1,5 +1,5 @@
 # MDA
-Syntetic simulation of path finding problems of Magen David Adom (MDA) with Heurystic Search Algorithms.
+Synthetic simulation of path finding problems of Magen David Adom (MDA) with Heurystic Search Algorithms.
 
 ## About:
 > This experimental project was part of Introduction to A.I. course assignments which focuses on Heurystic Search Algorithms.
